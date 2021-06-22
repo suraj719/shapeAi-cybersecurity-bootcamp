@@ -1,1 +1,1 @@
-# shapeAi-cybersecurity-bootcamp
+Get weather details of any city.
