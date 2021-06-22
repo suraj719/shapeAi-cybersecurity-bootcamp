@@ -14,7 +14,7 @@ weather_desc = api_data['weather'][0]['description']
 hmdt = api_data['main']['humidity']
 wind_spd = api_data['wind']['speed']
 date_time = datetime.now().strftime("%d %b %Y | %I:%M:%S %p")
-file = open("results.txt","w")
+file = open("weatherdata.txt","w")
  
 file.write("\n")
 file.write ("Weather Stats for - {}  || {}".format(location.upper(), date_time))
