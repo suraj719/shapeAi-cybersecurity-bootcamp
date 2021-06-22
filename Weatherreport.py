@@ -1,4 +1,4 @@
-mport requests
+import requests
 from datetime import datetime
  
 api_key = '69a90bbbeeda65396fcb36cc97703f11'
