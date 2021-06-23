@@ -37,6 +37,6 @@ file.write("Current wind speed    :" + str(wind_spd) + "kmph")
  
 file.close ()
 
-Print ("\n")
-Print ("The weather details for "+ location +" have been successfully sent to weatherdata.txt file.")
+print ("\n")
+print ("The weather details for "+ location +" have been successfully sent to weatherdata.txt file.")
  
